@@ -1,1 +1,1 @@
-# memory-card
+# memory-cardэто проект Memory card.
